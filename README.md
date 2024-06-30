@@ -4,6 +4,10 @@
 
 This project leverages Large Language Models (LLMs) to enhance personalized financial advisory services in banking. Our solution provides tailored financial advice, automates routine tasks, and analyzes vast amounts of financial data quickly. This README outlines the implementation, maintenance, and security measures incorporated to ensure the reliability and integrity of the solution.
 
+
+<img width="516" alt="image" src="https://github.com/Anand930singh/bob_hackathon/assets/99159646/82aca85f-07fb-4fca-8914-2f233843e068">
+
+
 ## Features
 
 - **Personalized Financial Advice**: Customized investment strategies based on individual risk profiles and financial objectives.
